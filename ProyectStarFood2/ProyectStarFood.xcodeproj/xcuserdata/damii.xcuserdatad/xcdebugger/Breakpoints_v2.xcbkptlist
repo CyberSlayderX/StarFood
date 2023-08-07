@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02E583BD-A5A9-4756-B1BD-DB6D44E27E2B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB7609E2-4FCE-4D5E-913A-822FE1089EC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectStarFood/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CB7609E2-4FCE-4D5E-913A-822FE1089EC5 - 3f57703730715bd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectStarFood.HomeView.body.getter : some"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  uuid = "CB7609E2-4FCE-4D5E-913A-822FE1089EC5 - bc6a4b721c01297c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ProyectStarFood.HomeView.body.getter : some"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "242">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D764CFDD-C3C9-4294-A2B9-AE629D339D34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectStarFood/CategoriesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D764CFDD-C3C9-4294-A2B9-AE629D339D34 - c80d143cb5569d76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectStarFood.CategoriesView.body.getter : some"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/CategoriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "255">
+               </Location>
+               <Location
+                  uuid = "D764CFDD-C3C9-4294-A2B9-AE629D339D34 - b65de1ec3a7c0b51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in ProyectStarFood.CategoriesView.body.getter : some"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/CategoriesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30DB9EC0-A3E3-471B-93A7-29E82870A628"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectStarFood/Models/RecipeModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "Recipe"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "30DB9EC0-A3E3-471B-93A7-29E82870A628 - 2691c2c9323ccdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for all"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/Models/RecipeModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "30DB9EC0-A3E3-471B-93A7-29E82870A628 - 3f209f0ab3494f60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectStarFood.Recipe.all.unsafeMutableAddressor : Swift.Array&lt;ProyectStarFood.Recipe&gt;"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/Models/RecipeModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EE573F1-E260-4421-B31B-35403BAC0FCE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProyectStarFood/Models/RecipeModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "all"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2EE573F1-E260-4421-B31B-35403BAC0FCE - 2691c2c9323ccdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for all"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/Models/RecipeModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2EE573F1-E260-4421-B31B-35403BAC0FCE - 3f209f0ab3494f60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectStarFood.Recipe.all.unsafeMutableAddressor : Swift.Array&lt;ProyectStarFood.Recipe&gt;"
+                  moduleName = "ProyectStarFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damii/Desktop/ProyectStarFood/ProyectStarFood/Models/RecipeModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
